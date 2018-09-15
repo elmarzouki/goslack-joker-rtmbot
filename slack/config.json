@@ -1,0 +1,6 @@
+{
+  "slack": {
+    "access_token": "slack_access_token",
+    "channel_id": "slack_channel_id"
+  }
+}
