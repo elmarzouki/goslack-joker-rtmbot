@@ -1,9 +1,9 @@
 package slack
 
 import (
-	"../joker"
 	"encoding/json"
 	"fmt"
+	"github.com/iSuperMostafa/goslack-joker-rtmbot/joker"
 	"github.com/nlopes/slack"
 	"io/ioutil"
 	"log"

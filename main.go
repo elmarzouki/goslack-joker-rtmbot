@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./slack"
+	"github.com/iSuperMostafa/goslack-joker-rtmbot/slack"
 )
 
 func main() {
